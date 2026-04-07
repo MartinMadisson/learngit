@@ -12,4 +12,8 @@
 
 - main line 4
 - feature line 2
+<<<<<<< HEAD
 -main line 5
+=======
+- feature line 3
+>>>>>>> 89b66e6 (add feature line 3)
